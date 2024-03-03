@@ -20,7 +20,7 @@
     - e.g. `!watch maddiict silent` or `!watch virtual-weedle-3498 silence`
     - This allows the bot to track the race without posting split times to the runners twitch chat. The final result will still be posted in discord.
   - `spoiler`
-    - e.g. `!watch <user> spoiler`
+    - e.g. `!watch maddiict spoiler`
     - This makes the bot post the final result with spoiler tags, which can be useful for tournament races.
  
 ### Ignore
