@@ -91,6 +91,13 @@ This command will post formatted splits for the given race.
   - e.g. `!splits virtual-weedle-3498 maddiict`
   - The user here can be either the race client name (srl/rtgg) or twitch name.
 
+### Add Delay
+If you want to add a delay to announcing split results to channels, you can use this command. This is mostly applicable to restreams to avoid getting spoiled by stream delay.
+
+- `!add_delay <race_id> <time_in_seconds>`
+  - e.g. `!add_delay virtual-weedle-3498 5`
+  - This will add a 5 second delay to when all the runners finish a split and when the announcement goes out to all the twitch channels.
+
 
 ## Twitch Commands
 These are commands that can be run in a runner's twitch chat (or external watcher if added) and the bot will reply in that twitch chat.
