@@ -26,7 +26,7 @@
 - On this route, there are 31 spinner passes that are performed. My current PB hits 3 spinners
 
 ### What is that timer on the top of your LiveSplit layout?
-- That is (FlowTimer)[https://github.com/stringflow/flowtimer], a program that acts like a metronome in order to hit frame precise manipulations. Whenever that timer is ticking down, it means I'm preparing for a manipulation and I'm trying to time hitting A when the timer reaches 0.
+- That is [FlowTimer](https://github.com/stringflow/flowtimer), a program that acts like a metronome in order to hit frame precise manipulations. Whenever that timer is ticking down, it means I'm preparing for a manipulation and I'm trying to time hitting A when the timer reaches 0.
 
 ### What is step count and why does it matter?
 - Raikou manip requires a very specific step count in order to work.
