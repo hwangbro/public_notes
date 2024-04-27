@@ -35,3 +35,9 @@
 
 ### What's your goal time?
 - I don't have a solid goal. Right now I'm aiming for around 3:10-3:11. Once I achieve that goal, I'll decide if I want to pursue a faster time.
+
+### Why isn't your PB on the leaderboard?
+- My PB was a practice run done on a practice ROM of Crystal. I used this practice version to troubleshoot any manip issues or things like that, but since it's not a vanilla ROM, it's not allowed on the leaderboard. I knew this while playing and don't really care about a leaderboard submission.
+- On top of that, I'm beta-testing a new GBC/GBA emulator, [GSR](https://github.com/CasualPokePlayer/gsr/), which is a new front-end re-write of the [gambatte-speedrun core](https://github.com/pokemon-speedrunning/gambatte-core/) and [mGBA](https://github.com/mgba-emu/mgba).
+  - This new emulator is still actively being developed, but I enjoy using it for runs more than the currently allowed emulator, [gambatte-speedrun](https://github.com/pokemon-speedrunning/gambatte-speedrun/).
+  - Eventually the new GSR will probably be allowed on the leaderboard, but until it is, my attempts are technically invalid for leaderboard submission. Which I'm fine with.
