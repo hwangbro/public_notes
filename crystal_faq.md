@@ -3,6 +3,9 @@
 ### What's the goal of the speedrun?
 - The goal is to beat all 8 Johto Gym Leaders, beat the Elite 4, beat all 8 Kanto Gym Leaders, then beat Red at Mt. Silver, without using arbitrary code execution (ACE), save corruption, or glitches.
 
+### What's the tl;dr of the route?
+- The start of the run is _very_ manip heavy. We manipulate a perfect (or near perfect) Toto to use to get past Whitney, then we main switch to an RNG manipulated Raikou with great stats and HP Ice. From there, we pretty much sweep the rest of the game.
+
 ### Why do you keep resetting the game so much in the beginning?
 - I'm setting up a few RNG manipulations in order to make the game faster to beat.
   - One of the first things I'm doing is manipulating my Lucky ID (LID) to be 01001. This means that the lottery in Goldenrod will be using this number to determine matches and prizes.
@@ -41,3 +44,6 @@
 - On top of that, I'm beta-testing a new GBC/GBA emulator, [GSR](https://github.com/CasualPokePlayer/gsr/), which is a new front-end re-write of the [gambatte-speedrun core](https://github.com/pokemon-speedrunning/gambatte-core/) and [mGBA](https://github.com/mgba-emu/mgba).
   - This new emulator is still actively being developed, but I enjoy using it for runs more than the currently allowed emulator, [gambatte-speedrun](https://github.com/pokemon-speedrunning/gambatte-speedrun/).
   - Eventually the new GSR will probably be allowed on the leaderboard, but until it is, my attempts are technically invalid for leaderboard submission. Which I'm fine with.
+
+### Why do you compare against juanly when his PB is slower than yours?
+- Juanly is someone I've known the longest in PSR and it's fun to compare against his run. If the run ends up going to late game, I might switch to another comparison for a better idea of what my pace is.
