@@ -6,6 +6,9 @@
 ### What's the tl;dr of the route?
 - The start of the run is _very_ manip heavy. We manipulate a perfect (or near perfect) Toto to use to get past Whitney, then we main switch to an RNG manipulated Raikou with great stats and HP Ice. From there, we pretty much sweep the rest of the game.
 
+### What's the current world record?
+- The current world record is a [3:08:13](https://www.speedrun.com/pkmncrystal/runs/yw00623m) by WaveWarrior.
+
 ### Why do you keep resetting the game so much in the beginning?
 - I'm setting up a few RNG manipulations in order to make the game faster to beat.
   - One of the first things I'm doing is manipulating my Lucky ID (LID) to be 01001. This means that the lottery in Goldenrod will be using this number to determine matches and prizes.
@@ -36,8 +39,8 @@
 - This is based off of perfect movement all the way until Raikou, so any deviations or mistakes in movement have to be tracked.
 - By the time I reach Burned Tower in Ecruteak, I'll have to make sure my step count is at an acceptable value, otherwise Raikou manip won't work.
 
-### What's your goal time?
-- I don't have a solid goal. Right now I'm aiming for around 3:10-3:11. Once I achieve that goal, I'll decide if I want to pursue a faster time.
+### What's your goal time? Are you going for world record?
+- I don't have a solid goal. Right now I'm aiming for around 3:10-3:11. Once I achieve that goal, I'll decide if I want to pursue a faster time. At this time, I'm **not** pursuing a world record time.
 
 ### Why isn't your PB on the leaderboard?
 - My PB was a practice run done on a practice ROM of Crystal. I used this practice version to troubleshoot any manip issues or things like that, but since it's not a vanilla ROM, it's not allowed on the leaderboard. I knew this while playing and don't really care about a leaderboard submission.
