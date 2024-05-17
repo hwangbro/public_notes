@@ -50,3 +50,6 @@
 
 ### Why do you compare against juanly when his PB is slower than yours?
 - Juanly is someone I've known the longest in PSR and it's fun to compare against his run. If the run ends up going to late game, I might switch to another comparison for a better idea of what my pace is.
+
+### Why does your game audio get messed up every once in a while?
+- There's a current bug with Windows and the OBS audio application capture. It's a [known issue](https://github.com/obsproject/obs-studio/issues/8064) and the fix is supposedly in the next Windows 11 update, which I may or may not upgrade to. Until then, there isn't much I can do.
