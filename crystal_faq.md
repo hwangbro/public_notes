@@ -29,7 +29,7 @@
 ### What are spinners?
 - Spinners are a classification of trainers that spin rapidly in place, making them difficult to avoid if we need to pass them.
 - There are some strategies used to improve your chances of passing by them safely. This is why you'll see me pause in front of them; I'm trying to react quickly to them spinning a particular direction.
-- On this route, there are 31 spinner passes that are performed. My current PB hits 3 spinners
+- On this route, there are 31 spinner passes that are performed.
 
 ### What is that timer on the top of your LiveSplit layout?
 - That is [FlowTimer](https://github.com/stringflow/flowtimer), a program that acts like a metronome in order to hit frame precise manipulations. Whenever that timer is ticking down, it means I'm preparing for a manipulation and I'm trying to time hitting A when the timer reaches 0.
