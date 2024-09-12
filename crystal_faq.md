@@ -30,6 +30,7 @@
 ### What are spinners?
 - Spinners are a classification of trainers that spin rapidly in place, making them difficult to avoid if we need to pass them.
 - There are some strategies used to improve your chances of passing by them safely. This is why you'll see me pause in front of them; I'm trying to react quickly to them spinning a particular direction.
+- Unless a spinner is stuck, you are never "guaranteed" to pass a spinner successfully, but good passes should be over 90% to not be seen.
 - On this route, there are 31 spinner passes that are performed.
 
 ### What is that timer on the top of your LiveSplit layout?
@@ -42,6 +43,12 @@
 
 ### What's your goal time? Are you going for world record?
 - I don't have a solid goal. Right now I'm aiming for around 3:09. Once I achieve that goal, I'll decide if I want to pursue a faster time. At this time, I'm **not** pursuing a world record time.
+
+### How does your PB lose so much time in the Chuck split?
+- My PB hits the spinner in lighthouse, Ernest, which loses around 45-50 seconds.
+
+### What are the major places you can save time in your PB?
+- Mostly comes from not hitting any spinners. My PB also gets some unlucky fights in in the late game that end up around losing around 30s in total (Clair, Koga, Blaine, Brock).
 
 ### Why do you compare against juanly when his PB is slower than yours?
 - Juanly is someone I've known the longest in PSR and it's fun to compare against his run. If the run ends up going to late game, I might switch to another comparison for a better idea of what my pace is.
