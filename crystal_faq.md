@@ -19,12 +19,13 @@
 
 ### What other RNG manips do you do?
 1) LID manip (described above)
-2) Totodile manip, which allows us to get a Totodile with perfect or near perfect stats to get us through the early game
-3) On Route 29. (2 times), to manipulate 0 encounters through the grass tiles
-4) On Route 30. We manipulate 0 encounters through the grass tiles on the way to Violet City
-5) On Route 32. We manipulate 0 encounters through the grass tiles and a spinner pass
-6) Raikou manip. We manipulate a Raikou with extremely good stats and Hidden Power - Ice. This is our main carry through the game.
-7) Douglas manip. There is a spinner inside Pryce's gym that we cannot dodge reliably, so we sometimes perform a final manipulation to get past him without fighting.
+2) TID manip. I attempt to manipulate my TID to also be `01001`. If I succeed, Kenya will have the same OT as my trainer id, so it will not gain boosted exp and save a level up (~3s). There's no penalty for missing TID.
+3) Totodile manip, which allows us to get a Totodile with perfect or near perfect stats to get us through the early game
+4) On Route 29. (2 times), to manipulate 0 encounters through the grass tiles
+5) On Route 30. We manipulate 0 encounters through the grass tiles on the way to Violet City
+6) On Route 32. We manipulate 0 encounters through the grass tiles and a spinner pass
+7) Raikou manip. We manipulate a Raikou with extremely good stats and Hidden Power - Ice. This is our main carry through the game.
+8) Douglas manip. There is a spinner inside Pryce's gym that we cannot dodge reliably, so we sometimes perform a final manipulation to get past him without fighting.
 
 ### What are spinners?
 - Spinners are a classification of trainers that spin rapidly in place, making them difficult to avoid if we need to pass them.
