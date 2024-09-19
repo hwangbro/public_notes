@@ -9,8 +9,8 @@ Competitions often use Ao5, not fastest singles to determine who wins.
  
 ## PBs: 
 - Single: 8.52s (01/22/24)
-- Ao5: 11.87s (09/17/24)
+- Ao5: 11.66s (09/18/24)
 - Ao12: 12.36s (09/16/24)
 - Ao50: 13.04s (09/17/24)
-- Ao100: 13.57s (09/17/24)
-- Ao1000: 14.31s (09/17/24)
+- Ao100: 13.23s (09/18/24)
+- Ao1000: 14.21s (09/18/24)
