@@ -10,6 +10,32 @@
 - During the tech check before your race, the restreamer will provide you a URL to stream to
     - Go into Settings -> Stream, ensure Service is set to `WHIP`, and place the given URL in the `Server` box.
 - Once you click start streaming, the restreamers should be able to capture your stream feed. They will communicate with you if anything needs to be modified.
+- Please local record your run in case you disconnect from the restreaming setup.
+
+## LiveSplit Setup
+- It is recommended you use the following split names in an effort to standardize names to make split comparisons easier.
+```
+Nidoran
+Brock
+Route 3
+Mt. Moon
+Bridge
+Misty
+Surge
+Fly
+Flute
+Koga
+Erika
+Blaine
+Sabrina
+Giovanni
+Lorelei
+Bruno
+Agatha
+Lance
+Champion
+Hall of Fame
+```
 
 ## Racetime.gg Setup
 - If you haven't already, create an account on [racetime.gg](https://racetime.gg/)
@@ -22,3 +48,6 @@
 ## Pre-Race Setup
 - The commentators/restreamers should communicate with you to set an initial palette before the race begins. This is a countermeasure against runners using pre-recorded runs.
 - They should specify this in the form of a direction + optional button, e.g. `LEFT+A` or `UP`. Make sure you set this palette and are using it when you begin the race.
+
+## Post-Race Setup
+- After you are finished with your race and if you would like to join the stream, please join the `#Tournament Waiting Room` channel and someone will pull you into the restream/commentary channel. 
