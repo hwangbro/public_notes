@@ -7,6 +7,12 @@
 - Modify the `GAME FEED` source in OBS and set it to capture your game feed (Emulator/Capture Card)
 - If you are on console, you may have to crop your feed to only capture gameplay and fit it within the BLUE area in the layout
 - Modify the `RUNNER NAME` text and set it to whatever name you would like to display on stream
+- Your OBS preview should look something like this when you are done
+
+    - <details><summary>Example</summary>
+        <img src="images/obs_runner_preview.png">
+        </details>
+
 - During the tech check before your race, the restreamer will provide you a URL to stream to
     - Go into Settings -> Stream, ensure Service is set to `WHIP`, and place the given URL in the `Server` box.
 - Once you click start streaming, the restreamers should be able to capture your stream feed. They will communicate with you if anything needs to be modified.
@@ -52,4 +58,4 @@ Hall of Fame
 - They should specify this in the form of a direction + optional button, e.g. `LEFT+A` or `UP`. Make sure you set this palette and are using it when you begin the race.
 
 ## Post-Race Setup
-- After you are finished with your race and if you would like to join the stream, please join the `#Tournament Waiting Room` channel and someone will pull you into the restream/commentary channel. 
+- After you are finished with your race and if you would like to join the stream, please join the `#Tournament Waiting Room` channel and someone will pull you into the restream/commentary channel.
