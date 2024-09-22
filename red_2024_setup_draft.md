@@ -13,7 +13,7 @@
         <img src="images/obs_runner_preview.png">
         </details>
 
-- During the tech check before your race, the restreamer will provide you a URL to stream to
+- During the tech check before your race, the restreamer will provide you a URL to stream to. You will **not** be streaming to your normal twitch channel unless the restreamer is having issues with this current setup.
     - Go into Settings -> Stream, ensure Service is set to `WHIP`, and place the given URL in the `Server` box.
 - Once you click start streaming, the restreamers should be able to capture your stream feed. They will communicate with you if anything needs to be modified.
 - Please local record your run in case you disconnect from the restreaming setup.
