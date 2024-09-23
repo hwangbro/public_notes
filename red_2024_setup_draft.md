@@ -18,6 +18,13 @@
 - Once you click start streaming, the restreamers should be able to capture your stream feed. They will communicate with you if anything needs to be modified.
 - Please local record your run in case you disconnect from the restreaming setup.
 
+## Y No Restream??
+- Due to the large number of participants this year and limited resources, there is a chance your race might not be restreamed.
+- If this is the case, one of the organizers or restreamers will reach out to your race group and let you know in advanced.
+- You will be asked to stream (& local record) your race to your normal twitch channel, using racetime.gg
+    - Layout is flexible here, as long as it contains your game feed and **livesplit timer**
+- You may still be asked to do some small run verification, like palette changes, before the race begins.
+
 ## LiveSplit Setup
 - It is recommended you use the following split names in an effort to standardize names to make split comparisons easier.
 ```
