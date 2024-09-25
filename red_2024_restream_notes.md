@@ -3,6 +3,7 @@
 ## Setting up Stage Ten WHIP URLs
 - Visit https://app.stageten.tv/startup, log in using racebotxd@gmail.com credentials.
     - DM hwangbro for credentials
+    - Alternatively create your own account (free)
 - Click `Pro Studio` on the sidebar
 <img src="images/stageten_homescreen.png">
 - Click `Skip` on the next page
