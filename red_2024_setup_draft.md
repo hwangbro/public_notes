@@ -7,6 +7,7 @@
 - Modify the `GAME FEED` source in OBS and set it to capture your game feed (Emulator/Capture Card)
 - If you are running on GSE, please enable `Hide Status Bar` in settings.
 - If you are on console, you may have to crop your feed to only capture gameplay and fit it within the BLUE area in the layout
+- If you plan on watching the restream or having music playing, please make sure OBS is capturing **only** your game audio and not full desktop audio
 - Modify the `RUNNER NAME` text and set it to whatever name you would like to display on stream
 - Your OBS preview should look something like this when you are done
 
