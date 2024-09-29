@@ -1,9 +1,7 @@
 # Notes for Restreaming 2024 Red Tournament
 
 ## Setting up Stage Ten WHIP URLs
-- Visit https://app.stageten.tv/startup, log in using racebotxd@gmail.com credentials.
-    - DM hwangbro for credentials
-    - Alternatively create your own account (free)
+- Visit https://app.stageten.tv/startup, create free account
 - Click `Pro Studio` on the sidebar
 <img src="images/stageten_homescreen.png">
 - Click `Skip` on the next page
