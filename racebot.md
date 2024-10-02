@@ -124,6 +124,15 @@ In these situations (or whenever you want), you can use this command to create a
   - This command will display your current watchlist.
 - `!reset_watchlist`
   - This command will erase your current watchlist.
+ 
+### Segment
+This command is used to get the segment time of a particular runner. If no split name is specified, their latest split will be used.
+
+- `!segment <user> [split_name]`
+  - e.g. `!segment maddiict flute`
+    - In this example, I will receive a message that contains maddiict's flute segment time. If maddiict does not have a flute segment finished, no message will be displayed.
+  - e.g. `!segment hwangbro`
+    - In this example, I will receive a message that contains my latest segment time. If no segment has been completed, no message will be displayed.
 
 ### Runner Info
 Used to display all the entrants in the race and their twitch links.
