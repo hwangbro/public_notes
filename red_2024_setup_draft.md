@@ -19,6 +19,7 @@
     - Go into Settings -> Stream, ensure Service is set to `WHIP`, and place the given URL in the `Server` box.
 - Once you click start streaming, the restreamers should be able to capture your stream feed. They will communicate with you if anything needs to be modified.
 - **Please local record your run in case you disconnect from the restreaming setup.**
+    - You will need to change the recording path. Please test this before your race to make sure you are able to record without issues.
 
 ## Y No Restream??
 - Due to the large number of participants this year and limited resources, there is a chance your race might not be restreamed.
