@@ -6,7 +6,7 @@
     - Contains uniform layouts to make our restream efforts easier
 - Modify the `GAME FEED` source in OBS and set it to capture your game feed (Emulator/Capture Card)
 - If you are running on GSE, please enable `Hide Status Bar` in settings.
-- If you are on console, you may have to crop your feed to only capture gameplay and fit it within the BLUE area in the layout
+- If you are on console, you may have to crop your feed to only capture gameplay and fit it within the BLUE area in the layout. 
 - If you plan on watching the restream or having music playing, please make sure OBS is capturing **only** your game audio and not full desktop audio
 - Modify the `RUNNER NAME` text and set it to whatever name you would like to display on stream
 - Your OBS preview should look something like this when you are done
@@ -18,7 +18,7 @@
 - During the tech check before your race, the restreamer will provide you a URL to stream to. You will **not** be streaming to your normal twitch channel unless the restreamer is having issues with this current setup.
     - Go into Settings -> Stream, ensure Service is set to `WHIP`, and place the given URL in the `Server` box.
 - Once you click start streaming, the restreamers should be able to capture your stream feed. They will communicate with you if anything needs to be modified.
-- Please local record your run in case you disconnect from the restreaming setup.
+- **Please local record your run in case you disconnect from the restreaming setup.**
 
 ## Y No Restream??
 - Due to the large number of participants this year and limited resources, there is a chance your race might not be restreamed.
