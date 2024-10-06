@@ -133,6 +133,11 @@ This command is used to get the segment time of a particular runner. If no split
     - In this example, I will receive a message that contains maddiict's flute segment time. If maddiict does not have a flute segment finished, no message will be displayed.
   - e.g. `!segment hwangbro`
     - In this example, I will receive a message that contains my latest segment time. If no segment has been completed, no message will be displayed.
+- `!segment all [split_name]`
+  - e.g. `!segment all flute`
+    - In this example, I will receive a message that contains all the runner's flute segment time. If any runner does not have a flute segment finished, no message will be displayed.
+  - e.g. `!segment all`
+    - In this example, all runner's segment time for their latest split will be displayed. If no segment has been completed, no message will be displayed.
 
 ### Runner Info
 Used to display all the entrants in the race and their twitch links.
