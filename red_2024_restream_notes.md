@@ -59,7 +59,7 @@
 7. The end result should look something like this
 
 <details><summary>Example</summary>
-<img src="images/nodecg_edit_run.png" width=50%>
+<img src="images/nodecg_edit_run.png" width=75%>
 </details>
 
 #### Starting the timer
@@ -69,7 +69,7 @@
   - Since this is a manual process, the "end time" may be a bit inaccurate, so rely on racetime.gg for the real results.
 
 <details><summary>Example</summary>
-<img src="images/nodecg_main_run_timer.png" width=70%>
+<img src="images/nodecg_main_run_timer.png" width=80%>
 </details>
 
 ### Setting up OBS
