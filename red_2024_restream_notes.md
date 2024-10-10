@@ -123,3 +123,33 @@ As each runner finishes, you'll need to manually mark them as finished in the no
 - Mute all runner feeds, otherwise the stream might hear an echo if they join the discord call.
 - Drag runners into commentator VC if they are unable to join themselves
 - End stream once everyone is closing out
+
+
+## Check list
+
+Pre-Race
+- Set Stream Title (Can do it in mod view in twitch)
+- Setup NodeCG
+- Generate StageTen links
+  - Distribute StageTen stream links to runners as they join VC
+  - Once they start streaming, grab their `copy solo link` and insert into OBS
+  - Confirm and balance audio
+- Restream OBS preview to commentary
+- Racetime.gg setup
+  - Join the room yourself: you will quit the run once all runners are ready to start race
+  - Grab palette from commentators, ensure runners set it
+- RaceBot command
+  - `!watch <race_id | runner> spoiler watcher=<restream_channel> delay=5`
+  - e.g. `!watch maddiict spoiler watcher=redracetv delay=5`
+
+When racers are ready
+- Give countdown/warning before you leave racetime.gg room
+- Cue in commentators, switch layouts to race layout
+
+Race Start
+- Start nodecg timer synced as closely as you can with racetime.gg timer start
+
+Runners finish
+- "finish" all runners in nodecg as they finish
+- Mute game feeds as they finish, switch audio feed if applicable
+- Ask runners if they want to join commentary
