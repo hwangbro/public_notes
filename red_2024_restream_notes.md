@@ -30,6 +30,7 @@
         - You will provide this URL to one runner to use as their OBS WHIP server.
     - Once they have copied this server URL, ask them to click `Start Streaming` in OBS and their feed should appear in the `Pro Studio` tab in StageTen
     - Click on the hamburger context menu in their feed and click `Copy Solo Link`. This is a link you will feed into the restreaming OBS to use as a browser source for this runner.
+    - Do NOT open this link in your own browser, copy it directly into OBS as a Browser Source (see OBS setup further below)
             <details><summary>Example</summary>
             <img src="images/stageten_copy_solo_link.png">
             </details>
