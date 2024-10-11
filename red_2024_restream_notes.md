@@ -35,6 +35,7 @@
             </details>
     - Repeat these steps for each runner until you should have all 3 feeds added into OBS
     - If you are using the restream PC, please generate the broadcast and links on your own system to avoid overworking the PC
+- **IMPORTANT** Do not close the Pro Studio tab once the feeds are open. IF you do, the game feeds will die and the runners will not be able to use the same WHIP links.
 
 ### Setting up racetime.gg room
 - Create a new room in racetime.gg, join it yourself (as an organizers)
