@@ -36,7 +36,7 @@ We've had a few stability issues with our current stream setup and we think that
 - To setup for the screen share, right click your OBS preview and click `Windowed Projector (Preview)`. Ensure that this windowed preview is maximized. This windowed preview is the application that you will screen share in Discord.
 - Once you begin sharing this in discord, you are free to minimize this window.
 
-## Discord Screen share setup
+## Discord screen sharing setup
 - Once the OBS Windowed Preview is open, join the Discord voice channel and click `Share your screen.`
 - In the Screen Share window, go to `Applications`, then select `Windowed Projector (Preview)` and ensure `Also share application audio` is selected.
 
