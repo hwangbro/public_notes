@@ -8,6 +8,7 @@ We've had a few stability issues with our current stream setup and we think that
 - Runners will open their OBS preview in a new window and screenshare that OBS preview in the discord call
 - The restreamer will be in the voice call and grab everybody's game feed from the shared screens.
 - For audio to be shared in Discord, runners will need to setup audio monitoring on OBS (steps outlined below)
+- Audio Monitoring enabled means that OBS can output any audio sources to another audio device. The use of VB Cable is to prevent you from hearing any game audio twice (once through your normal audio device, once through OBS' audio montioring)
 
 ## OBS Setup
 
