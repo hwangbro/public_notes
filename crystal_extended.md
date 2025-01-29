@@ -22,7 +22,7 @@
 ### If you aren't doing runs, what are you going to be doing instead?
 - [x] Create practice ROM for clearing textboxes
 - [ ] Build consistency with clearing textboxes on the ROM
-- [ ] Confirm that extended results match manip code results on vanilla ROM
+- [x] Confirm that extended results match manip code results on vanilla ROM
 - [ ] Test IGT tracking for first R29 pass and calibrate FlowTimer
 - [ ] Develop no encounter manip for Rt30 for all 4 paths with IGT window size 8+
 - [ ] Test IGT tracking for second R29 pass and calibrate FlowTimer
