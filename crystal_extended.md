@@ -23,6 +23,10 @@
 - [x] Create practice ROM for clearing textboxes
 - [ ] Build consistency with clearing textboxes on the ROM
 - [x] Confirm that extended results match manip code results on vanilla ROM
+- [x] Figure out frame data for fight manip
+  - Down input: 6 frame window
+  - Move select input: 5 frame window
+  - Select buffer same as down input: 6 frame window
 - [ ] Test IGT tracking for first R29 pass and calibrate FlowTimer
 - [ ] Develop no encounter manip for Rt30 for all 4 paths with IGT window size 8+
 - [ ] Test IGT tracking for second R29 pass and calibrate FlowTimer
