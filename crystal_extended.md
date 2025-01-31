@@ -27,8 +27,8 @@
   - Down input: 6 frame window
   - Move select input: 5 frame window
   - Select buffer same as down input: 6 frame window
-- [ ] Test IGT tracking for first R29 pass and calibrate FlowTimer
-- [ ] Develop no encounter manip for Rt30 for all 4 paths with IGT window size 8+
+- [x] Test IGT tracking for first R29 pass and calibrate FlowTimer
+- [x] Develop no encounter manip for Rt30 for all 4 paths with IGT window size 8+
 - [ ] Test IGT tracking for second R29 pass and calibrate FlowTimer
-- [ ] Develop Rival 1 T1 leer manip
+- [x] Develop Rival 1 T1 leer manip
 - [ ] Develop Mikey T1 crit manip
