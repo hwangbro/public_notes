@@ -29,6 +29,9 @@
   - Select buffer same as down input: 6 frame window
 - [x] Test IGT tracking for first R29 pass and calibrate FlowTimer
 - [x] Develop no encounter manip for Rt30 for all 4 paths with IGT window size 8+
+- [ ] Create practice save states for fight manip
 - [ ] Test IGT tracking for second R29 pass and calibrate FlowTimer
 - [x] Develop Rival 1 T1 leer manip
-- [ ] Develop Mikey T1 crit manip
+- [x] Develop Mikey T1 crit manip
+- [ ] Record correct NPC cues for R29 pass 1 manip
+- [ ] Record correct NPC cues for R29 pass 2 manip
