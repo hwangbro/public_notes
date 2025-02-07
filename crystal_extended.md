@@ -32,9 +32,14 @@
 - [x] Create practice save states for fight manip
 - [ ] Test IGT tracking for second R29 pass and calibrate FlowTimer
 - [x] Develop Rival 1 T1 leer manip
+  - [x] Redo search to find tackle instead of growl fail?
 - [x] Develop Mikey T1 crit manip
 - [ ] Record correct NPC cues for R29 pass 1 manip
 - [ ] Record correct NPC cues for R29 pass 2 manip
 - [ ] Create maps and update notes
   - [ ] Pass 1
   - [ ] Pass 2
+- [ ] Create practice save states
+  - [ ] Pass 1
+  - [ ] Pass 2
+
