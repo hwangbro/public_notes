@@ -34,12 +34,12 @@
 - [x] Develop Rival 1 T1 leer manip
   - [x] Redo search to find tackle instead of growl fail?
 - [x] Develop Mikey T1 crit manip
-- [ ] Record correct NPC cues for R29 pass 1 manip
-- [ ] Record correct NPC cues for R29 pass 2 manip
-- [ ] Create maps and update notes
-  - [ ] Pass 1
-  - [ ] Pass 2
-- [ ] Create practice save states
-  - [ ] Pass 1
-  - [ ] Pass 2
+- [x] Record correct NPC cues for R29 pass 1 manip
+- [x] Record correct NPC cues for R29 pass 2 manip
+- [x] Create maps and update notes
+  - [x] Pass 1
+  - [x] Pass 2
+- [x] Create practice save states
+  - [x] Pass 1
+  - [x] Pass 2
 
