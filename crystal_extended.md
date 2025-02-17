@@ -21,7 +21,7 @@
 
 ### If you aren't doing runs, what are you going to be doing instead?
 - [x] Create practice ROM for clearing textboxes
-- [ ] Build consistency with clearing textboxes on the ROM
+- [x] Build consistency with clearing textboxes on the ROM
 - [x] Confirm that extended results match manip code results on vanilla ROM
 - [x] Figure out frame data for fight manip
   - Down input: 6 frame window
@@ -30,7 +30,7 @@
 - [x] Test IGT tracking for first R29 pass and calibrate FlowTimer
 - [x] Develop no encounter manip for Rt30 for all 4 paths with IGT window size 8+
 - [x] Create practice save states for fight manip
-- [ ] Test IGT tracking for second R29 pass and calibrate FlowTimer
+- [x] Test IGT tracking for second R29 pass and calibrate FlowTimer
 - [x] Develop Rival 1 T1 leer manip
   - [x] Redo search to find tackle instead of growl fail?
 - [x] Develop Mikey T1 crit manip
