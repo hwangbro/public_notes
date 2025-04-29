@@ -1,5 +1,18 @@
 ## Trainer AI Move Odds
 
+### Rival 1
+
+#### Turn 1
+- Tackle: 25%
+- Growl: 75%
+
+#### Turn 2+
+- Tackle: 94%
+- Growl: 6%
+
+### Mikey Rattata
+- 50/50 Tackle/Tail Whip
+
 ### Well Zubats
 - 50% Supersonic/Leech Life
 
