@@ -97,8 +97,17 @@
 ### Rival 5 Magneton (Turn 1)
 - 89% to TWave, 11% to sonicboom
 
+### Bruno Hitmontop
+- 96% dig, 4% detect
+
+### Bruno Hitmonlee
+- 11% Swagger, 89% HJK
+
 ### Surge Raichu
 - 89% to TWave, 11% to Thunder
 
 ### Blaine Magcargo
 - 50/50 Flamethrower/Curse
+
+### Brock Omastar
+- 48.667% Surf, 48.667% Spike Cannon, 2.6667% Protect
