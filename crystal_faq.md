@@ -50,17 +50,13 @@
 - That is [FlowTimer](https://github.com/stringflow/flowtimer), a program that acts like a metronome in order to hit frame precise manipulations. Whenever that timer is ticking down, it means I'm preparing for a manipulation and I'm trying to time hitting A when the timer reaches 0.
 
 ### What's your goal time? Are you going for world record?
-- I don't have a solid goal. Right now I'm aiming for around 3:09. Once I achieve that goal, I'll decide if I want to pursue a faster time. At this time, I'm **not** pursuing a world record time.
-
-### How does your PB lose so much time in the Chuck split?
-- My PB hits the spinner in lighthouse, Ernest, which loses around 45-50 seconds.
+- 3:07:XX. With the development of Rt29 extended manips and Raikou yoloball, I believe this time is very achievable with a spinnerless run and first try Raikou.
 
 ### What are the major places you can save time in your PB?
-- Mostly comes from not hitting any spinners. My PB also gets some unlucky fights in in the late game that end up around losing around 30-40s in total (Clair, Koga, Blaine, Brock).
-- From new routing changes, I can save around 30 seconds across Whitney/Rival 3 from skipping picking up the Master Ball.
+- My PB has a very subpar early game (Bugsy/Whitney/Rival 3/Morty). I also lost around 20 seconds in the final Red split, and some not unsignificant timesave in Jasmine/Clair/Will/Misty/Surge.
 
-### Why do you compare against juanly when his PB is slower than yours?
+### Why do you sometimes compare against juanly when his PB is slower than yours?
 - Juanly is someone I've known the longest in PSR and it's fun to compare against his run. If the run ends up going to late game, I might switch to another comparison for a better idea of what my pace is.
 
 ### Why does your game audio get messed up every once in a while?
-- There's a current bug with Windows and the OBS audio application capture. It's a [known issue](https://github.com/obsproject/obs-studio/issues/8064) and the fix is supposedly in the next Windows 11 update, which I may or may not upgrade to. Until then, there isn't much I can do.
+- There's a current bug with Windows and the OBS audio application capture. It's a [known issue](https://github.com/obsproject/obs-studio/issues/8064). Until this issue gets resolved, there isn't much I can do.
