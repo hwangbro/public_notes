@@ -46,6 +46,12 @@
   - This manip is particularly difficult and I am still attempting to build consistency.
 - For the second pass, if I clear the textboxes for the Mikey fight perfectly and perfectly select the move Scratch, I can manipulate a crit that will one-hit KO his Pidgey, saving a turn.
 
+### What is berry-ful?
+- As of 2025 May 10, I have started doing run where you never unequip the berry from Totodile. This berry is primarily used to heal during the Spearow fight inside Falkner's gym.
+- Normally, we unequip the berry at the start of Rt29, fight Rival 1 and Mikey, then reequip the berry. This is mainly because you are very likely to get below 50% fighting Rival 1, which will use up your berry.
+- I have updated the extended manip to manipulate a Growl fail (or Tackle miss in rare cases) on turn 1. This means you are highly likely to win the fight without using the berry.
+- This strategy saves around 8 seconds overall.
+
 ### What is that timer on the top of your LiveSplit layout?
 - That is [FlowTimer](https://github.com/stringflow/flowtimer), a program that acts like a metronome in order to hit frame precise manipulations. Whenever that timer is ticking down, it means I'm preparing for a manipulation and I'm trying to time hitting A when the timer reaches 0.
 
