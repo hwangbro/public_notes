@@ -101,9 +101,9 @@
 - 96% dig, 4% detect
 
 ### Bruno Hitmonlee
-- Foresight: 3.7066%
-- HJK: 85.5866%
-- Swagger: 10.7066%
+- Foresight: 2.52%
+- HJK/DK: 45.15%
+- Swagger: 7.19%
 
 ### Surge Raichu
 - 89% to TWave, 11% to Thunder
