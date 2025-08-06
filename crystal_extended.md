@@ -1,8 +1,8 @@
 ## Pokemon Crystal Rt29 Extended FAQ
 
 ### What does extended mean?
-- The current route does a single RNG manipulation that starts with generating a Totodile with perfect stats and ends by critting Mikey's Pidgey turn 1
-- This manip "extends" the standard Totodile manip into no encounters on R29, R30, getting a perfect Rival1 fight, no encounters on R29 pass 2, and then manipulating turn 1 on Mikey
+- The current route does a single RNG manipulation that starts with generating a Totodile with perfect stats and ends when you enter Falkner's gym.
+- This manip "extends" the standard Totodile manip into no encounters on R29, R30, getting a perfect Rival1 fight, no encounters on R29 pass 2, getting a perfect Mikey fight, and no encounters on R30/R31
 
 ### How many textboxes do you have to clear perfectly?
 - Rough count is around 160 including all the battle and nickname inputs.
@@ -14,5 +14,5 @@
 - I am playing on a ROM to practice clearing the textboxes perfectly. If textbox turns red, that means I failed in clearing that textbox
 
 ### New route??
-- The overall route is still the same, but this idea allows me to get truly ridiculous Falkner times (top end with these strats is currently around 13:5x, but with more development could save another ~15-20s)
+- The overall route is still the same, but this idea allows me to get truly ridiculous Falkner times (top end with these strats is currently around 13:3x)
 

@@ -22,11 +22,11 @@
    c) This manip continues into Route 30 to guarantee 0 encounters on the way down
    d) This manip continues into Rival 1 to guarantee a perfect 3 turn Rival battle.
    e) This manip continues into Route 29 pass #2 to guarantee 0 encounters
-   f) This manip continues into Mikey to guarantee a OHKO crit on Pidgey turn 1
-3) On Route 30. We manipulate 0 encounters through the grass tiles on the way to Violet City
-4) On Route 32. We manipulate 0 encounters through the grass tiles and a spinner pass
-5) Raikou manip. We manipulate a Raikou with extremely good stats and Hidden Power - Ice. This is our main carry through the game.
-6) Douglas manip. There is a spinner inside Pryce's gym that we cannot dodge reliably, so we sometimes perform a final manipulation to get past him without fighting.
+   f) This manip continues into Mikey to guarantee a perfect 4 turn battle.
+   g) This manip continues into Route 30/Route 31 to guarantee 0 encounters.
+3) On Route 32. We manipulate 0 encounters through the grass tiles and a spinner pass
+4) Raikou manip. We manipulate a Raikou with extremely good stats and Hidden Power - Ice. This is our main carry through the game.
+5) Douglas manip. There is a spinner inside Pryce's gym that we cannot dodge reliably, so we sometimes perform a final manipulation to get past him without fighting.
 
 ### What are spinners?
 - Spinners are a classification of trainers that spin rapidly in place, making them difficult to avoid if we need to pass them.
@@ -39,9 +39,9 @@
 - This removes the entire need to go to the Radio Tower and do the lottery, and removes the need for LID manip. If done successfully, it should save around 30-35s.
 
 ### What are the extended manips?
-- I have started attempting [Totodile Extended Manip](crystal_extended.md) which I have designed. This manip starts with a save + quit in the lab before getting Totodile and ends with critting Mikey's pidgey
+- I have started attempting [Totodile Extended Manip](crystal_extended.md) which I have designed. This manip starts with a save + quit in the lab before getting Totodile and ends when I enter Falkner's gym.
 - These strats are extremely difficult and require clearing over 160 textboxes perfectly (~5 frame window per textbox). If a single textbox is missed, the manip will fail.
-- These strats can save over a minute over the strategies used in the previous world record (3:08:13 by WaveWarrior) and around 40s over the current world record by me.
+- These strats can save over a 90 seconds over the strategies used in the previous world record (3:08:13 by WaveWarrior) and over a minute on the current world record by me.
 
 ### What is that timer on the top of your LiveSplit layout?
 - That is [FlowTimer](https://github.com/stringflow/flowtimer), a program that acts like a metronome in order to hit frame precise manipulations. Whenever that timer is ticking down, it means I'm preparing for a manipulation and I'm trying to time hitting A when the timer reaches 0.
