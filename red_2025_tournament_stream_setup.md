@@ -1,0 +1,3 @@
+# Pokemon Red 2025 Tournament Tech Setup
+
+In progress...
