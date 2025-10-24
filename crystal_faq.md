@@ -50,7 +50,7 @@
 - 3:06 or 3:05. 3:06 was already very possible with the strats the current world record employed, but with the "new" Toto extended manip, it is very achievable. 3:05 is possible but quite unlikely to happen.
 
 ### What are the major places you can save time in your PB?
-- My PB doesn't use the new Toto manip so I can save around 50s in Falkner. I also lose a lot of time during the Jasmine/Will/Karen splits. The Bugsy/Whitney/Rival 3 splits are also a bit below average.
+- My PB doesn't use the new Toto manip so I can save around 80 seconds in Falkner. I also lose a lot of time during the Jasmine/Will/Karen splits. The Bugsy/Whitney/Rival 3 splits are also a bit below average.
 
 ### Why do you sometimes compare against juanly when his PB is slower than yours?
 - Juanly is someone I've known the longest in PSR and it's fun to compare against his run. If the run ends up going to late game, I might switch to another comparison for a better idea of what my pace is.
