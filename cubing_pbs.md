@@ -12,5 +12,5 @@ Competitions often use Ao5, not fastest singles to determine who wins.
 - Ao5: 11.00s (09/19/24)
 - Ao12: 11.81s (03/19/26)
 - Ao50: 12.65s (06/10/26)
-- Ao100: 12.92s (06/11/26)
-- Ao1000: 13.69s (06/10/26)
+- Ao100: 12.80s (06/11/26)
+- Ao1000: 13.58s (06/11/26)
